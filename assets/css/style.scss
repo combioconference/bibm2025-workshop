@@ -4,9 +4,11 @@
 @import "{{ site.theme }}";
 
 header {
-background-image: url("https://combioconference.github.io/bibm2025-workshop/assets/css/logo.png") !important;
-background-position: center;
-background-size: 100% auto;
-font-family: helvetica, arial, sans-serif;
-text-shadow: 2px 2px 4px #000000;
+  background-image: url("https://combioconference.github.io/bibm2025-workshop/assets/css/logo.png") !important;
+  background-position: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  height: 300px; /* Increase this value to make it longer */
+  font-family: helvetica, arial, sans-serif;
+  text-shadow: 2px 2px 4px #000000;
 }
