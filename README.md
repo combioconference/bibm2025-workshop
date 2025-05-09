@@ -61,7 +61,7 @@ This special issue aims to highlight the state-of-the-art in algorithmic develop
 spatial and single-cell omics, and to foster a community of researchers pushing the
 boundaries of computational biology through innovative tools and integrative analysis.
 
-Important Dates:
+# Important Dates
 
 Oct 15, 2025: Due date for workshop paper submission
 
