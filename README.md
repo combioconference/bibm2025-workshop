@@ -73,7 +73,7 @@ Dec 15-18, 2025: Workshops
 
 # Program Chairs
 
-- **Xin (Maizie) Zhou**, Department of Biomedical Engineering and Computer Science, Vanderbilt University
+- **Xin Maizie Zhou**, Department of Biomedical Engineering and Computer Science, Vanderbilt University
 
 - **Eric Lu Zhang**, Department of Computer Science, Hong Kong Baptist University
 
