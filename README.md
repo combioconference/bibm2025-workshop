@@ -79,6 +79,20 @@ boundaries of computational biology through innovative tools and integrative ana
   <li><strong>Zhenhan Lin</strong>, Department of Computer Science, Vanderbilt University</li>
 </ul>
 
+<h1>Invited Speaker</h1>
+<p><strong><a href="https://junding.lab.mcgill.ca/people.html" target="_blank">Jun Ding</a></strong><br>
+Assistant Professor | Meakins-Christie Laboratories, Faculty of medicine, McGill University.<br>
+Affiliate member, Mila - Quebec AI Institute<br>
+Associate member, School of Computer Science, McGill University<br>
+QLS Program Researcher<br>
+Associate member, Department of Biomedical Engineering<br>
+Associate member, Department of Human Genetics<br>
+FRQS Junior 1 Scholar<br>
+Meakins-Christie Chair in Respiratory Research<br>
+e-mail: jun.ding@mcgill.ca<br>
+office: RI-MUHC, Block E, Office EM3.2212, 1001 boul Decarie, Montreal, QC, H4A 3J1, Canada<br>
+Jun received a PhD in Computer Science at University of Central Florida. He then completed a four-year postdoctoral fellowship in computational biology with Ziv Bar-Joseph (2012 Overton Prize winner) at Carnegie Mellon University. In 2021, he joined the Meakins-Christie Laboratories at McGill University as a tenure-track assistant professor.</p>
+
 <h1>Workshop Schedule</h1>
 
 <p><em>Location and exact times will be announced. “TBD” denotes a time slot to be finalized.</em></p>
@@ -141,6 +155,6 @@ boundaries of computational biology through innovative tools and integrative ana
 <p>Please submit a full-length paper (up to <font color="red">8 pages in IEEE 2-column format</font>) through the online submission system (you can download the format instruction <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target="_blank">here</a>).
 Electronic submissions (in PDF or Postscript format) are required. Selected participants will be asked to submit their revised papers in a format to be specified at the time of acceptance.</p>
 
-# Workshop Online Submission:
-
-**Submit a paper** [Click here](https://wi-lab.com/cyberchair/2025/bibm25/index.php)
+<!-- # Workshop Online Submission:
+**Submit a paper** [Click here](https://wi-lab.com/cyberchair/2021/bibm21/scripts/submit.php?subarea=S09&undisplay_detail=1&wh=/cyberchair/2021/bibm21/scripts/ws_submit.php)
+-->
