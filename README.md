@@ -55,7 +55,7 @@ boundaries of computational biology through innovative tools and integrative ana
 
 <h1>Program Chairs</h1>
 <ul>
-  <li><strong>Xin (Maizie) Zhou</strong>, Department of Biomedical Engineering and Computer Science, Vanderbilt University</li>
+  <li><strong>Xin Maizie Zhou</strong>, Department of Biomedical Engineering and Computer Science, Vanderbilt University</li>
   <li><strong>Eric Lu Zhang</strong>, Department of Computer Science, Hong Kong Baptist University</li>
   <li><strong>Wenji Ma</strong>, Shanghai Jiao Tong University School of Medicine</li>
   <li><strong>Xiaoqi Zheng</strong>, Shanghai Jiao Tong University School of Medicine</li>
