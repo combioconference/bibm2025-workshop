@@ -79,22 +79,22 @@ boundaries of computational biology through innovative tools and integrative ana
   <li><strong>Zhenhan Lin</strong>, Department of Computer Science, Vanderbilt University</li>
 </ul>
 
-<h1>Invited Speaker</h1>
+<h1>Keynote Speaker</h1>
 <p><strong><a href="https://junding.lab.mcgill.ca/people.html" target="_blank">Jun Ding</a></strong><br>
-Assistant Professor | Meakins-Christie Laboratories, Faculty of medicine, McGill University.<br>
-</p>
+Assistant Professor | Meakins-Christie Laboratories, Faculty of Medicine, McGill University.</p>
 
-<h2>Invited Talk Abstract</h2>
+<h2>Keynote Talk Abstract</h2>
 <p>
 <strong>Title:</strong> scGALA advances graph link prediction-based cell alignment for comprehensive data integration and harmonization
 </p>
 
 <p>
 <strong>Abstract:</strong><br>
-<!-- Replace the placeholder paragraph below with the real abstract -->
 <span style="color:#555;">
 Accurate alignment of cells across heterogeneous single-cell datasets remains a fundamental bottleneck in data integration. Existing approaches rely heavily on geometric proximity in expression space and therefore struggle when datasets differ in modality, platform, or contain strong batch effects and non-linear biological relationships. These limitations propagate through downstream analyses, leading to suboptimal batch correction, label transfer, multi-omics integration, and spatial alignment. A unified and robust alignment framework is urgently needed.
+<br><br>
 In this talk, I will introduce scGALA, a graph-based learning framework that reconceptualizes cell alignment as a masked link-prediction problem. scGALA constructs comprehensive intra- and inter-dataset cell–cell graphs, applies a multi-scale Graph Attention Network to infer reliable correspondences, and refines them with an iterative score-based optimization strategy. This relational formulation enables scGALA to recover biologically coherent mappings that extend beyond local geometric similarity and flexibly incorporate auxiliary information, including multi-omics features and spatial coordinates.
+<br><br>
 Built on this enhanced alignment backbone, scGALA functions both as a universal integration module and as a standalone system capable of advanced applications, including mosaic tri-omics construction, cross-modality RNA generation from ATAC, and high-resolution spatial transcriptomics enhancement. scGALA provides a robust, scalable, and versatile foundation for harmonizing heterogeneous single-cell datasets, substantially strengthening both conventional and emerging multi-omics analyses.
 </span>
 </p>
