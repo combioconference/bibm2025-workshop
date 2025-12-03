@@ -112,52 +112,50 @@ Built on this enhanced alignment backbone, scGALA functions both as a universal 
 
   <tbody>
 
-    <!-- Keynote -->
     <tr>
-      <td>9:00–9:30</td>
+      <td>9:00-9:30</td>
       <td><strong>Keynote: scGALA advances graph link prediction-based cell alignment for comprehensive data integration and harmonization</strong></td>
       <td>Jun Ding (McGill University)</td>
     </tr>
 
-    <!-- Regular Talks -->
     <tr>
-      <td>9:35–9:55</td>
+      <td>9:35-9:55</td>
       <td>EMST: An Interpretable Multi-modal Model for Spatial Transcriptomic Data Analysis</td>
       <td>Rui Han, Weiwei Yuan, Xuan Wang, and Junyi Li</td>
     </tr>
 
     <tr>
-      <td>10:00–10:20</td>
+      <td>10:00-10:20</td>
       <td>An End-to-End Dual-View Architecture for Spatial Clustering of Spatial Transcriptomics Data by Integrating Histology Images</td>
       <td>Xinru Xu, Shengjun Li, and Juan Wang</td>
     </tr>
 
     <tr>
-      <td>10:20–10:40</td>
+      <td>10:20-10:40</td>
       <td>scDVCC: Deep Clustering of scRNA-seq Based on Dual-View Contrastive Learning</td>
       <td>Shudong Wang, Yue Song, Wenhao Wu, Hengxiao Li, Yulin Zhang, and Shanchen Pang</td>
     </tr>
 
     <tr>
-      <td>10:40–11:00</td>
+      <td>10:40-11:00</td>
       <td>An Adaptive Single-cell Sequencing Data Cluster Method under Weight Fusion Constraint</td>
       <td>Zhenchang Wang, Shasha Yuan, Feng Li, and Juan Wang</td>
     </tr>
 
     <tr>
-      <td>11:00–11:20</td>
+      <td>11:00-11:20</td>
       <td>scGZDC: Graph-based ZINB Deep Clustering for Single-cell RNA-seq Data</td>
       <td>Hui-Bo Tian, Xiang-Zhen Kong, Jin-Xing Liu, Jun-Liang Shang, Juan Wang, and Ling-Yun Dai</td>
     </tr>
 
     <tr>
-      <td>11:20–11:40</td>
+      <td>11:20-11:40</td>
       <td>Consistency-Constrained Contrastive Learning with Hard-Negative for Spatial Domain Identification</td>
       <td>Fanghui Zhou, Linjie Wang, Huixia Zhang, and Wei Li</td>
     </tr>
 
     <tr>
-      <td>11:40–12:00</td>
+      <td>11:40-12:00</td>
       <td>SpaMSC: Multi-Scale Subgraph Contrastive Learning for Deciphering Spatial Domains in Spatial Transcriptomics</td>
       <td>Daohui Ge, Haonan Li, Wentian Xin, Feng Li, Ping Wang, and Yuzhuo Yuan</td>
     </tr>
