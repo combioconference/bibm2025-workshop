@@ -100,7 +100,7 @@ Built on this enhanced alignment backbone, scGALA functions both as a universal 
 </p>
 
 
-### Workshop Schedule (Beijing Time, December 16, 2025)
+<h1>Workshop Schedule (Beijing Time, December 16, 2025)</h1>
 
 | Time        | Title | Presenter / Author |
 |-------------|--------|--------------------|
