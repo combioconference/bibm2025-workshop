@@ -104,14 +104,14 @@ Built on this enhanced alignment backbone, scGALA functions both as a universal 
 
 | Time        | Paper ID | Title | Presenter / Author |
 |-------------|----------|--------|--------------------|
-| **9:00-9:30** | — | **Keynote: scGALA advances graph link prediction-based cell alignment for comprehensive data integration and harmonization** | Dr. Jun Ding (McGill University) |
-| **9:35-9:55** | **B1479** | EMST: An Interpretable Multi-modal Model for Spatial Transcriptomic Data Analysis | Rui Han, Weiwei Yuan, Xuan Wang, and Junyi Li |
-| **10:00-10:20** | **B2321** | An End-to-End Dual-View Architecture for Spatial Clustering of Spatial Transcriptomics Data by Integrating Histology Images | Xinru Xu, Shengjun Li, and Juan Wang |
-| **10:20-10:40** | **B328** | scDVCC: Deep Clustering of scRNA-seq Based on Dual-View Contrastive Learning | Shudong Wang, Yue Song, Wenhao Wu, Hengxiao Li, Yulin Zhang, and Shanchen Pang |
-| **10:40-11:00** | **B774** | An Adaptive Single-cell Sequencing Data Cluster Method under Weight Fusion Constraint | Zhenchang Wang, Shasha Yuan, Feng Li, and Juan Wang |
-| **11:00-11:20** | **B1857** | scGZDC: Graph-based ZINB Deep Clustering for Single-cell RNA-seq Data | Hui-Bo Tian, Xiang-Zhen Kong, Jin-Xing Liu, Jun-Liang Shang, Juan Wang, and Ling-Yun Dai |
-| **11:20-11:40** | **B1953** | Consistency-Constrained Contrastive Learning with Hard-Negative for Spatial Domain Identification | Fanghui Zhou, Linjie Wang, Huixia Zhang, and Wei Li |
-| **11:40-12:00** | **B2159** | SpaMSC: Multi-Scale Subgraph Contrastive Learning for Deciphering Spatial Domains in Spatial Transcriptomics | Daohui Ge, Haonan Li, Wentian Xin, Feng Li, Ping Wang, and Yuzhuo Yuan |
+| **9:00-9:30am** | — | **Keynote: scGALA advances graph link prediction-based cell alignment for comprehensive data integration and harmonization** | Dr. Jun Ding (McGill University) |
+| **9:35-9:55am** | **B1479** | EMST: An Interpretable Multi-modal Model for Spatial Transcriptomic Data Analysis | Rui Han, Weiwei Yuan, Xuan Wang, and Junyi Li |
+| **10:00-10:20am** | **B2321** | An End-to-End Dual-View Architecture for Spatial Clustering of Spatial Transcriptomics Data by Integrating Histology Images | Xinru Xu, Shengjun Li, and Juan Wang |
+| **10:20-10:40am** | **B328** | scDVCC: Deep Clustering of scRNA-seq Based on Dual-View Contrastive Learning | Shudong Wang, Yue Song, Wenhao Wu, Hengxiao Li, Yulin Zhang, and Shanchen Pang |
+| **10:40-11:00am** | **B774** | An Adaptive Single-cell Sequencing Data Cluster Method under Weight Fusion Constraint | Zhenchang Wang, Shasha Yuan, Feng Li, and Juan Wang |
+| **11:00-11:20am** | **B1857** | scGZDC: Graph-based ZINB Deep Clustering for Single-cell RNA-seq Data | Hui-Bo Tian, Xiang-Zhen Kong, Jin-Xing Liu, Jun-Liang Shang, Juan Wang, and Ling-Yun Dai |
+| **11:20-11:40am** | **B1953** | Consistency-Constrained Contrastive Learning with Hard-Negative for Spatial Domain Identification | Fanghui Zhou, Linjie Wang, Huixia Zhang, and Wei Li |
+| **11:40-12:00am** | **B2159** | SpaMSC: Multi-Scale Subgraph Contrastive Learning for Deciphering Spatial Domains in Spatial Transcriptomics | Daohui Ge, Haonan Li, Wentian Xin, Feng Li, Ping Wang, and Yuzhuo Yuan |
 
 
 <h1>Registration</h1>
